@@ -26,7 +26,7 @@
   "author": "Jesse Gibson",
   "dependencies": {
     "deep-eql": "^2.0.1",
-    "enzyme": "2.x.x",
+    "enzyme": "2.8.2",
     "expect": "^1.20.2",
     "react": "13.0.0 - 15.x.x",
     "react-display-name": "^0.2.0",
